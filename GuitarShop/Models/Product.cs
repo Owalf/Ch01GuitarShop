@@ -1,7 +1,7 @@
 ﻿namespace GuitarShop.Models
 {
 
-    //Model class for the product
+    //Model class for the product in the shop
     public class Product
     {
         public int ProductID { get; set; }

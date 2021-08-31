@@ -7,7 +7,7 @@ namespace GuitarShop.Models
         public static List<Product> GetProducts()
         {
 
-            //List of products
+            //List of products for the shop
 
             List<Product> products = new List<Product>
             {
